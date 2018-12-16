@@ -1,0 +1,3 @@
+back color - #4aa049
+font color 1 - #f39a00
+font color 2 -#7d0202
