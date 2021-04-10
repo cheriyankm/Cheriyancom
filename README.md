@@ -1,3 +1,4 @@
-# Cheriyancom
-## www.cheriyankm.com
+# CheriyanXYZ
+
+## www.cheriyankm.xyz
 © All
